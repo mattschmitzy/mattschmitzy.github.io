@@ -1,4 +1,4 @@
-.animal_rankings {
+.music {
   height: 50px;
   width: 120px;
   border-color: #027ebc;
@@ -10,7 +10,7 @@
   text-align: center;
 }
 
-.You {
+.art {
   height: 50px;
   width: 120px;
   border-color: #027ebc;
@@ -28,7 +28,7 @@ h1{
 }
 
 body{
-  background-color: #315402;
+  background: url(https://cdn.filestackcontent.com/5bLHJSfRfu10iqTJ7qKH)
 }
 
 a:hover{
