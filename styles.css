@@ -41,12 +41,14 @@
 }
 
 h1{
-  color: red;
+  color: aquamarine;
   font-family: Hawaii 5-0, sans-serif;
 }
 
 body{
-  background: url(https://cdn.filestackcontent.com/5bLHJSfRfu10iqTJ7qKH)
+  background-image: url(https://cdn.filestackcontent.com/5bLHJSfRfu10iqTJ7qKH);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 a:hover{
